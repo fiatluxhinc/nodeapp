@@ -1,3 +1,3 @@
 window.onload = function () {
-    document.body.innerHTML += '<strong><em>Talk Dirty JavaScript to me</em></strong>';
+    document.body.innerHTML += '<strong><em>Talk JavaScript to me</em></strong>';
 }
